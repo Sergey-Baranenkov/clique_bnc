@@ -348,21 +348,21 @@ def main():
     )
 
     hard = (
-        # 'brock200_1.clq',
-        # 'brock200_2.clq',
-        # 'brock200_3.clq',
-        # 'brock200_4.clq',
-        # 'C125.9.clq',
-        # 'gen200_p0.9_44.clq',
-        # 'keller4.clq',
-        # 'MANN_a27.clq',
-        # 'MANN_a45.clq',
-        # 'p_hat300-1.clq',
-        # 'p_hat300-2.clq',
-        # 'p_hat300-3.clq',
-        # 'san200_0.7_2.clq',
-        # 'san200_0.9_3.clq',
-        # 'sanr200_0.7.clq',
+        'brock200_1.clq',
+        'brock200_2.clq',
+        'brock200_3.clq',
+        'brock200_4.clq',
+        'C125.9.clq',
+        'gen200_p0.9_44.clq',
+        'keller4.clq',
+        'MANN_a27.clq',
+        'MANN_a45.clq',
+        'p_hat300-1.clq',
+        'p_hat300-2.clq',
+        'p_hat300-3.clq',
+        'san200_0.7_2.clq',
+        'san200_0.9_3.clq',
+        'sanr200_0.7.clq',
     )
 
     files = {
